@@ -73,8 +73,9 @@ Type commands (username, pwd, etc) into the linux SSH connection and observe SSH
 <br />
 
 
-<img src="https://i.imgur.com/HQayzj9.png" height)="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HQayzj9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 <p>Observe DHCP Traffic
 From your Windows 10 VM, attempt to issue your VM a new IP address from the command line ipconfig /renew
 
@@ -82,7 +83,7 @@ From your Windows 10 VM, attempt to issue your VM a new IP address from the comm
 <br />
 
 
-<img src="https://i.imgur.com/9isB8zu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/gXx8vzr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Observe DNS Traffic
 From your Windows 10 VM within a command line, use nslookup to see what google.com IP address is 
