@@ -87,19 +87,11 @@ From your Windows 10 VM, attempt to issue your VM a new IP address from the comm
 </p>
 <p>Observe DNS Traffic
 From your Windows 10 VM within a command line, use nslookup to see what google.com IP address is 
-Observe the DNS traffic being show in WireShark
-
-
-</p>
-<br />
-
-
-<img src="https://i.imgur.com/9isB8zu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>Observe RDP Traffic
-Open Wireshark and filter for ICMP traffic only
-Retrieve the private IP address of the Ubuntu VM and attempt to ping it from within the Windows 10 VM
+Observe the DNS traffic being show in WireShark.
+That concludes this lab.
 
 </p>
 <br />
+
+
 
