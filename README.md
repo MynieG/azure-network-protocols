@@ -67,6 +67,17 @@ Retrieve the private IP address of the Ubuntu VM and attempt to ping it from wit
 </p>
 <p>Observe ICMP Traffi
 Open Wireshark and filter for ICMP traffic only
+Retrieve the private IP address of the Ubuntu VM and attempt to ping it from within the Windows 10 VMFrom your Windows 10 VM, 
+Type commands (username, pwd, etc) into the linux SSH connection and observe SSH traffic spam in WireShark
+
+</p>
+<br />
+
+
+<img src="https://i.imgur.com/9isB8zu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Observe ICMP Traffi
+Open Wireshark and filter for ICMP traffic only 1
 Retrieve the private IP address of the Ubuntu VM and attempt to ping it from within the Windows 10 VM
 
 </p>
@@ -76,7 +87,7 @@ Retrieve the private IP address of the Ubuntu VM and attempt to ping it from wit
 <img src="https://i.imgur.com/9isB8zu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Observe ICMP Traffi
-Open Wireshark and filter for ICMP traffic only
+Open Wireshark and filter for ICMP traffic only 2
 Retrieve the private IP address of the Ubuntu VM and attempt to ping it from within the Windows 10 VM
 
 </p>
@@ -85,26 +96,7 @@ Retrieve the private IP address of the Ubuntu VM and attempt to ping it from wit
 
 <img src="https://i.imgur.com/9isB8zu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Observe ICMP Traffi
-Open Wireshark and filter for ICMP traffic only
-Retrieve the private IP address of the Ubuntu VM and attempt to ping it from within the Windows 10 VM
-
-</p>
-<br />
-
-
-<img src="https://i.imgur.com/9isB8zu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>Observe ICMP Traffi
-Open Wireshark and filter for ICMP traffic only
-Retrieve the private IP address of the Ubuntu VM and attempt to ping it from within the Windows 10 VM
-
-</p>
-<br />
-
-<img src="https://i.imgur.com/9isB8zu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>Observe ICMP Traffi
+<p>Observe ICMP Traffi 3
 Open Wireshark and filter for ICMP traffic only
 Retrieve the private IP address of the Ubuntu VM and attempt to ping it from within the Windows 10 VM
 
@@ -113,7 +105,16 @@ Retrieve the private IP address of the Ubuntu VM and attempt to ping it from wit
 
 <img src="https://i.imgur.com/9isB8zu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Observe ICMP Traffi
+<p>Observe ICMP Traffi 4
+Open Wireshark and filter for ICMP traffic only
+Retrieve the private IP address of the Ubuntu VM and attempt to ping it from within the Windows 10 VM
+
+</p>
+<br />
+
+<img src="https://i.imgur.com/9isB8zu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Observe ICMP Traffi 5
 Open Wireshark and filter for ICMP traffic only
 Retrieve the private IP address of the Ubuntu VM and attempt to ping it from within the Windows 10 VM
 
